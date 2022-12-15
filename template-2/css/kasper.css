@@ -52,4 +52,5 @@ ul {
 
 /* Start Header */
 header {
+    position: absolute;
 }
