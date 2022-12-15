@@ -112,3 +112,7 @@ header nav ul {
         padding: 15px !important;
     }
 }
+header nav ul li a {
+    padding: 40px 10px; 
+}
+  
