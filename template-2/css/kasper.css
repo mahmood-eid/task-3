@@ -65,5 +65,8 @@ header .container {
     min-height: 97px;
 }
 header .container::after {
+    content: "";
+    position: absolute;
+    height: 1px;
 }
 
