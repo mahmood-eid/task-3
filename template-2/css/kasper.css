@@ -128,4 +128,11 @@ header nav ul li a:hover {
     border-bottom: 1px solid var(--main-color);
 }
 header nav .form i {
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+
 }
