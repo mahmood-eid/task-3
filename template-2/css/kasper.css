@@ -121,6 +121,7 @@ header nav ul li a {
     transition: 0.3s;
     position: relative;
     z-index: 2;
-
 }
-  
+header nav ul li a.active,
+header nav ul li a:hover {
+}
