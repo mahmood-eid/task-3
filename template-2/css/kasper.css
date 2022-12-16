@@ -410,6 +410,7 @@ landing .bullets li {
     position: relative;  
 }
 .portfolio .imgs-container .box:hover .caption {
+    bottom: 0;
 }
 
 
