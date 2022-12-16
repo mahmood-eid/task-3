@@ -562,6 +562,9 @@ landing .bullets li {
         flex-basis: 50%;
     }    
 }
+@media (min-width: 992px) {
+}
+
 
 
 
