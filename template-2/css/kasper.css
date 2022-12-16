@@ -387,18 +387,18 @@ landing .bullets li {
 .portfolio {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-  
 }
 .portfolio .shuffle {
     display: flex;
     justify-content: center;
-  
 }
 .portfolio .shuffle li {
     padding: 10px;
 }
 
-
+.portfolio .shuffle li.active {
+}
+  
 
 
 
