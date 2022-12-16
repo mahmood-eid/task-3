@@ -191,4 +191,8 @@ header nav .form i {
     font-size: 14px;
     line-height: 2;
 }
-  
+@media (max-width: 767px) {
+    .form{
+        display: none;
+    }
+}
