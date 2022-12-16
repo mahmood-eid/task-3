@@ -433,6 +433,7 @@ landing .bullets li {
     transition: 0.3s;  
 }
 .portfolio .imgs-container .box .caption {
+    position: absolute;
 }
 
 
