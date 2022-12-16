@@ -508,6 +508,7 @@ landing .bullets li {
     text-align: center;
 }
 .about img {
+    position: relative;
 }
 
 
