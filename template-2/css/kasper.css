@@ -591,6 +591,8 @@ landing .bullets li {
 
 /* Start Skills */
 .our-skills {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);  
 }
 
 
