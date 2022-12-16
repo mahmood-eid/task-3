@@ -700,7 +700,8 @@ landing .bullets li {
 .our-skills .skills .prog-holder .prog span::after {
     content: "";
     position: absolute;
-
+    border-style: solid;
+    border-width: 8px;
 }
 
 
