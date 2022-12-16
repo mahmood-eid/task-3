@@ -600,6 +600,10 @@ landing .bullets li {
     flex-wrap: wrap;
 }
 
+@media (min-width: 992px) {
+}
+
+
 
 
 
