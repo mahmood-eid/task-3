@@ -397,8 +397,8 @@ landing .bullets li {
 }
 
 .portfolio .shuffle li.active {
+    background-color: var(--main-color);
+    color: white;  
 }
-  
-
 
 
