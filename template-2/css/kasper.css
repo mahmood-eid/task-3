@@ -715,6 +715,8 @@ landing .bullets li {
     background-image: url("../images/quote.jpg");
     background-size: cover;
     position: relative;
+    text-align: center;
+
 }
 
 
