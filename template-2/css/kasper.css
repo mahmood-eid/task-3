@@ -412,6 +412,9 @@ landing .bullets li {
 .portfolio .imgs-container .box:hover .caption {
     bottom: 0;
 }
+.portfolio .imgs-container .box:hover img {
+}
+
 
 
 
