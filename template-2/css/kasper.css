@@ -573,6 +573,7 @@ landing .bullets li {
     height: 40px;  
     display: flex;
     background-color: black;
+    justify-content: center;
 }
 
 
