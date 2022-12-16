@@ -374,6 +374,8 @@ landing .bullets li {
     padding: 15px 0;
 
 }
+.design .text ul li::before {
+}
 
 
 
