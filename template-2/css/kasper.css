@@ -292,6 +292,7 @@ landing .bullets li {
     }
 }
 .services .srv-box {
+    display: flex;
 }
 
 
