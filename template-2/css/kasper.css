@@ -720,6 +720,8 @@ landing .bullets li {
 
 }
 .quote::before {
+    content: "";
+  
 }
 
 
