@@ -332,6 +332,8 @@ landing .bullets li {
     overflow: hidden; 
 }
 .design::before {
+    content: "";
+    position: absolute;  
 }
 
 
