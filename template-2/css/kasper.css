@@ -461,6 +461,7 @@ landing .bullets li {
 /* End Portfolio */
 /* Start Video */
 .video {
+    position: relative;
 }
 
 
