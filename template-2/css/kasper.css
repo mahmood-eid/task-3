@@ -732,6 +732,7 @@ landing .bullets li {
     position: relative;
 }
 .quote q {
+    font-size: 30px;
 }
 
 
