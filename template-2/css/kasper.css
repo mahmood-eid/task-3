@@ -331,6 +331,8 @@ landing .bullets li {
     align-items: center;
     overflow: hidden; 
 }
+.design::before {
+}
 
 
 
