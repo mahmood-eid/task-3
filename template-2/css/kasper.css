@@ -543,5 +543,6 @@ landing .bullets li {
 .stats .container {
     position: relative;
     display: flex;
+    flex-wrap: wrap;
 }
 
