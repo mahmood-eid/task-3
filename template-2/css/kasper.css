@@ -50,6 +50,8 @@ ul {
 }
 /* End Global Rules */
 
+/* Start Components */
+
 /* Start Header */
 header {
     position: absolute;
@@ -227,6 +229,8 @@ landing .bullets li {
     height: 20px;
     border: 1px solid white;
     border-radius: 50%;
+    margin-right: 10px;
+
 }
 .landing .bullets li.active {
     background-color: var(--main-color);
