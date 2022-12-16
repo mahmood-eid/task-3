@@ -229,5 +229,7 @@ landing .bullets li {
     border-radius: 50%;
 }
 .landing .bullets li.active {
+    background-color: var(--main-color);
+    border-color: var(--main-color);
 }
   
