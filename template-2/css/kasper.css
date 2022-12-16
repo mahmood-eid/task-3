@@ -409,6 +409,8 @@ landing .bullets li {
     overflow: hidden;
     position: relative;  
 }
+.portfolio .imgs-container .box:hover .caption {
+}
 
 
 
