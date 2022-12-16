@@ -482,8 +482,10 @@ landing .bullets li {
     color: white;
     background-color: var(--transparent-color);
     text-align: center;
-
 }
+.video .text h2 {
+}
+
 
 
 
