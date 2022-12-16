@@ -204,5 +204,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
     .landing .change-background {
+        display: none;
+
     }
 }
