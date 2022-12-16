@@ -527,4 +527,5 @@ landing .bullets li {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);  
     text-align: center;
+    background-image: url("../images/stats.png");
 }
