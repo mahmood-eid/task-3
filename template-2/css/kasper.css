@@ -481,6 +481,8 @@ landing .bullets li {
     padding: 50px;  
     color: white;
     background-color: var(--transparent-color);
+    text-align: center;
+
 }
 
 
