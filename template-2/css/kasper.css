@@ -463,6 +463,8 @@ landing .bullets li {
 .video {
     position: relative;
 }
+.video::before {
+}
 
 
 
