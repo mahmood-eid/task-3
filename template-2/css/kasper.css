@@ -703,6 +703,9 @@ landing .bullets li {
     border-style: solid;
     border-width: 8px;
     border-color: black transparent transparent;
+    right: -8px;
+    top: -15px;  
+
 }
 
 
