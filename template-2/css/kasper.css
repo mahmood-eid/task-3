@@ -476,6 +476,7 @@ landing .bullets li {
     width: 100%;
 }.video .text {
     position: absolute;
+    top: 50%;
 }
 
 
