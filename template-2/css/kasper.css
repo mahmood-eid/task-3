@@ -449,6 +449,8 @@ landing .bullets li {
     color: var(--main-color);
 }
 .portfolio .more {
+    background-color: var(--main-color);
+    color: white;  
 }
 
 
