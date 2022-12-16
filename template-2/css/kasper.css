@@ -622,6 +622,7 @@ landing .bullets li {
 .our-skills .testimonials .content {
     display: flex;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 
