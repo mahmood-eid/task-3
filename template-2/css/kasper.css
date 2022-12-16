@@ -436,6 +436,7 @@ landing .bullets li {
     position: absolute;
     left: 0;
     padding: 20px;
+    background-color: white;
 }
 
 
