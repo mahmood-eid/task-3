@@ -630,6 +630,10 @@ landing .bullets li {
     margin-right: 50px;
 }
 @media (max-width: 767px) {
+    .our-skills .testimonials .content {
+    }
+    .our-skills .testimonials .content img {
+    }    
 }
 
 
