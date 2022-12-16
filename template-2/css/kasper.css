@@ -390,6 +390,9 @@ landing .bullets li {
   
 }
 .portfolio .shuffle {
+    display: flex;
+    justify-content: center;
+  
 }
 
 
