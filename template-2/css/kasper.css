@@ -615,6 +615,7 @@ landing .bullets li {
 .our-skills .container > div > p {
     color: #777;
     line-height: 2;
+    text-align: center;
 }
 
 
