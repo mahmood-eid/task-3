@@ -574,6 +574,7 @@ landing .bullets li {
     display: flex;
     background-color: black;
     justify-content: center;
+    align-items: center;
 }
 
 
