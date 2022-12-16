@@ -446,6 +446,7 @@ landing .bullets li {
     margin-bottom: 10px;  
 }
 .portfolio .imgs-container .box .caption p {
+    color: var(--main-color);
 }
 
 
