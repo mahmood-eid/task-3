@@ -601,6 +601,9 @@ landing .bullets li {
 }
 
 @media (min-width: 992px) {
+    .our-skills .container > div {
+        flex-basis: 45%;
+    }    
 }
 
 
