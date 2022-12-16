@@ -531,3 +531,5 @@ landing .bullets li {
     background-size: cover;
     position: relative;
 }
+.stats::before {
+}
