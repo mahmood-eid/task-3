@@ -719,6 +719,9 @@ landing .bullets li {
     color: white;
 
 }
+.quote::before {
+}
+
 
 
 
