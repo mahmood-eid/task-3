@@ -541,5 +541,7 @@ landing .bullets li {
     background-color: rgb(0 0 0 / 70%);
 }
 .stats .container {
+    position: relative;
+
 }
 
