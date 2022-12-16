@@ -349,6 +349,8 @@ landing .bullets li {
 .design .image {
     text-align: center;
 }
+@media (max-width: 767px) {
+}
 
 
 
