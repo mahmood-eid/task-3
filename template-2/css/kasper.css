@@ -350,6 +350,10 @@ landing .bullets li {
     text-align: center;
 }
 @media (max-width: 767px) {
+    .design .image {
+        display: none;
+    }
+    
 }
 
 
