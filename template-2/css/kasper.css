@@ -595,6 +595,7 @@ landing .bullets li {
     padding-bottom: var(--section-padding);  
 }
 .our-skills .container {
+    display: flex;
 }
 
 
