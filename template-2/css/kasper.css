@@ -406,6 +406,8 @@ landing .bullets li {
     margin-top: 60px;  
 }
 .portfolio .imgs-container .box {
+    overflow: hidden;
+    position: relative;  
 }
 
 
