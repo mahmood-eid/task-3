@@ -687,6 +687,8 @@ landing .bullets li {
 }
 .our-skills .skills .prog-holder .prog span::before {
     content: attr(data-progress);
+    position: absolute;
+
 }
 
 
