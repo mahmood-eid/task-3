@@ -730,6 +730,7 @@ landing .bullets li {
 }
 .quote .container {
     position: relative;
+    justify-content: center;
 }
 .quote q {
     font-size: 30px;
