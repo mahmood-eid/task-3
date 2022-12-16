@@ -441,6 +441,8 @@ landing .bullets li {
     transition: 0.3s;
     bottom: -100%;  
 }
+.portfolio .imgs-container .box .caption h4 {
+}
 
 
 
