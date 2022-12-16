@@ -356,6 +356,8 @@ landing .bullets li {
     
 }
 .design .image img {
+    position: relative;
+    bottom: -150px;  
 }
 
 
