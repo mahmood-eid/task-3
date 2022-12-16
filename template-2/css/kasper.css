@@ -434,6 +434,7 @@ landing .bullets li {
 }
 .portfolio .imgs-container .box .caption {
     position: absolute;
+    left: 0;
 }
 
 
