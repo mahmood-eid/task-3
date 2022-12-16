@@ -546,6 +546,7 @@ landing .bullets li {
     flex-wrap: wrap;
 }
 .stats .container .box {
+    color: white;
 }
 
 
