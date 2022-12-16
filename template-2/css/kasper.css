@@ -400,5 +400,7 @@ landing .bullets li {
     background-color: var(--main-color);
     color: white;  
 }
+.portfolio .imgs-container {
+}
 
 
