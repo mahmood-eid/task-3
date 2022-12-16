@@ -620,6 +620,7 @@ landing .bullets li {
 }
 
 .our-skills .testimonials .content {
+    display: flex;
 }
 
 
