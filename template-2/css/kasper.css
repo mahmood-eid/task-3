@@ -656,6 +656,8 @@ landing .bullets li {
     margin-bottom: 50px;  
 }
 .our-skills .testimonials .bullets li {
+    width: 14px;
+    height: 14px;  
 }
 
 
