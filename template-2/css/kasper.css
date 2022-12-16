@@ -375,6 +375,7 @@ landing .bullets li {
 
 }
 .design .text ul li::before {
+    font-family: "Font Awesome 5 Free";
 }
 
 
