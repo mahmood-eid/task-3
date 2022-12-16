@@ -534,5 +534,7 @@ landing .bullets li {
 .stats::before {
     content: "";
     position: absolute;
-
+    left: 0;
+    top: 0;
+  
 }
