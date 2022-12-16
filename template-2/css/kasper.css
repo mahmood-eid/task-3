@@ -227,5 +227,7 @@ landing .bullets li {
     height: 20px;
     border: 1px solid white;
     border-radius: 50%;
-
 }
+.landing .bullets li.active {
+}
+  
