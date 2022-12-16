@@ -558,6 +558,9 @@ landing .bullets li {
     
 }
 @media (min-width: 768px) {
+    .stats .container .box {
+        flex-basis: 50%;
+    }    
 }
 
 
