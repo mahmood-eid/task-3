@@ -193,6 +193,6 @@ header nav .form i {
 }
 @media (max-width: 767px) {
     .form{
-        display: none;
+        margin-left: 20px;
     }
 }
