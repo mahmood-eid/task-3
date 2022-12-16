@@ -596,6 +596,7 @@ landing .bullets li {
 }
 .our-skills .container {
     display: flex;
+    justify-content: space-between;
 }
 
 
