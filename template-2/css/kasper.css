@@ -1011,6 +1011,7 @@ landing .bullets li {
     margin-top: 60px;
 }  
 .footer .copyright span {
+    font-weight: bold;
 }
 
 
