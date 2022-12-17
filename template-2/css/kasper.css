@@ -952,6 +952,7 @@ landing .bullets li {
     font-size: 18px;
 }  
 .contact .content .info .phone {
+    display: block;
 }  
 
 
