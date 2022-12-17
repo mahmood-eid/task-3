@@ -872,6 +872,7 @@ landing .bullets li {
 }
 .subscribe form input[type="submit"] {
     width: 130px;
+    background-color: var(--main-color);
 }
 
 
