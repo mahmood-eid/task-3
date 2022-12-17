@@ -976,6 +976,7 @@ landing .bullets li {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
     background-image: url("../images/subscribe.jpg");
+    background-size: cover;
 }
 
 
