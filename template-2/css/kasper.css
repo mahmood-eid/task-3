@@ -934,6 +934,7 @@ landing .bullets li {
     display: flex;
     margin-left: auto;
     text-transform: uppercase;
+    cursor: pointer;
 }  
 
 
