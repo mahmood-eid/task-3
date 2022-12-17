@@ -996,6 +996,8 @@ landing .bullets li {
 .footer img {
     margin-bottom: 20px;
 }
+.footer p:not(.copyright) {
+}
 
 
 
