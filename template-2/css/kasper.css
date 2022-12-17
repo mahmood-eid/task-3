@@ -877,6 +877,7 @@ landing .bullets li {
     padding: 10px 20px;
     border: 1px solid white;
     border-left: none;
+    text-transform: uppercase;
 }
 
 
