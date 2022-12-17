@@ -920,7 +920,8 @@ landing .bullets li {
     margin-bottom: 30px;
     width: 100%;
 }  
-
+.contact .content form .main-input:focus {
+}  
 
 
 
