@@ -981,6 +981,8 @@ landing .bullets li {
     color: white;
     text-align: center;
 }
+.footer::before {
+}
 
 
 
