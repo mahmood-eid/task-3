@@ -831,6 +831,8 @@ landing .bullets li {
     position: relative;
     color: white;
 }
+.subscribe::before {
+}
 
 
 
