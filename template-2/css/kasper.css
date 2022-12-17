@@ -865,6 +865,7 @@ landing .bullets li {
 .subscribe form input[type="email"] {
     border: 1px solid white;
     border-right: none;
+    background: none;
 }
 
 
