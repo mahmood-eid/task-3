@@ -939,7 +939,8 @@ landing .bullets li {
 .contact .content .info {
     flex-basis: 25%;
 }  
-
+@media (max-width: 767px) {
+}  
 
 
 
