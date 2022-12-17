@@ -841,6 +841,7 @@ landing .bullets li {
     background-color: rgb(0 0 0 / 50%);
 }
 .subscribe .container {
+    position: relative;
 }
 
 
