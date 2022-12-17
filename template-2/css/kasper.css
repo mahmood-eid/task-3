@@ -768,6 +768,7 @@ landing .bullets li {
     font-weight: bold;
 }
 .pricing .plans .plan .head span::before {
+    content: "$";
 }
 
 
