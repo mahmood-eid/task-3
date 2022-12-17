@@ -824,6 +824,7 @@ landing .bullets li {
 
 /* Start Subscribe */
 .subscribe {
+    padding-top: var(--section-padding);
 }
 
 
