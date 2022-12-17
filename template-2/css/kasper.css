@@ -911,6 +911,7 @@ landing .bullets li {
         flex-direction: column;
     }    
 }  .contact .content form {
+    flex-basis: 70%;
 }  
 
 
