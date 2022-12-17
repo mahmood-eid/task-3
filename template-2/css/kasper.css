@@ -846,6 +846,8 @@ landing .bullets li {
     align-items: center;
 }
 @media (max-width: 991px) {
+    .subscribe .container {
+    }    
 }
 
 
