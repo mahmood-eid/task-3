@@ -750,6 +750,7 @@ landing .bullets li {
     gap: 30px;
 }
 .pricing .plans .plan {
+    background-color: #fcfcfc;
 }
 
 
