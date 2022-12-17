@@ -853,6 +853,7 @@ landing .bullets li {
 .subscribe form {
     display: flex;
     position: relative;
+    width: 500px;
 }
 
 
