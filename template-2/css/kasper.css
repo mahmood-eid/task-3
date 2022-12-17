@@ -890,6 +890,9 @@ landing .bullets li {
     line-height: 2;
     margin-left: 50px;
 }
+@media (max-width: 991px) {
+}
+
 
 
 
