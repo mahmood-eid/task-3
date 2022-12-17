@@ -767,6 +767,8 @@ landing .bullets li {
     font-size: 60px;
     font-weight: bold;
 }
+.pricing .plans .plan .head span::before {
+}
 
 
 
