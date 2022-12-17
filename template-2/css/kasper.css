@@ -973,6 +973,7 @@ landing .bullets li {
 /* End Contact */
 /* Start Footer */
 .footer {
+    padding-top: calc(var(--section-padding) / 2);
 }
 
 
