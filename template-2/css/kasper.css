@@ -812,6 +812,7 @@ landing .bullets li {
     font-size: 20px;
 }
 .pricing .contact-link {
+    display: block;
 }
 
 
