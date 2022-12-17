@@ -833,6 +833,7 @@ landing .bullets li {
 }
 .subscribe::before {
     content: "";
+    position: absolute;
 }
 
 
