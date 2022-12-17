@@ -933,6 +933,7 @@ landing .bullets li {
     border: none;
     display: flex;
     margin-left: auto;
+    text-transform: uppercase;
 }  
 
 
