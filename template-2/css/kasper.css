@@ -776,6 +776,7 @@ landing .bullets li {
     font-weight: normal;
 }
 .pricing .plans .plan .head span::after {
+    content: "/Mo";
 }
 
 
