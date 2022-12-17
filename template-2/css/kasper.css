@@ -842,6 +842,7 @@ landing .bullets li {
 }
 .subscribe .container {
     position: relative;
+    display: flex;
 }
 
 
