@@ -847,6 +847,7 @@ landing .bullets li {
 }
 @media (max-width: 991px) {
     .subscribe .container {
+        flex-direction: column;
     }    
 }
 
