@@ -887,6 +887,7 @@ landing .bullets li {
     color: white;
 }
 .subscribe p {
+    line-height: 2;
 }
 
 
