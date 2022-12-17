@@ -854,6 +854,7 @@ landing .bullets li {
     display: flex;
     position: relative;
     width: 500px;
+    max-width: 100%;
 }
 
 
