@@ -775,6 +775,8 @@ landing .bullets li {
     margin-right: 15px;
     font-weight: normal;
 }
+.pricing .plans .plan .head span::after {
+}
 
 
 
