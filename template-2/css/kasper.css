@@ -886,6 +886,8 @@ landing .bullets li {
 .subscribe form ::placeholder {
     color: white;
 }
+.subscribe p {
+}
 
 
 
