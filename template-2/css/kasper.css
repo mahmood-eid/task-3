@@ -903,6 +903,7 @@ landing .bullets li {
     padding-bottom: var(--section-padding);  
 }  
 .contact .content {
+    display: flex;
 }  
 
 
