@@ -913,7 +913,8 @@ landing .bullets li {
 }  .contact .content form {
     flex-basis: 70%;
 }  
-
+.contact .content form .main-input {
+}  
 
 
 
