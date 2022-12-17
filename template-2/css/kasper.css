@@ -982,6 +982,7 @@ landing .bullets li {
     text-align: center;
 }
 .footer::before {
+    content: "";
 }
 
 
