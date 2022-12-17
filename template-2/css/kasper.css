@@ -241,11 +241,6 @@ header nav .form i {
     font-size: 14px;
     line-height: 2;
 }
-@media (max-width: 767px) {
-    .form{
-        margin-left: 20px;
-    }
-}
 .landing .change-background {
     position: absolute;
     top: 50%;
