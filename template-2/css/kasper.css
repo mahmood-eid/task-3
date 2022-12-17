@@ -891,6 +891,8 @@ landing .bullets li {
     margin-left: 50px;
 }
 @media (max-width: 991px) {
+    .subscribe p {
+    }    
 }
 
 
