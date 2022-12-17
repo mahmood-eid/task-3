@@ -845,6 +845,8 @@ landing .bullets li {
     display: flex;
     align-items: center;
 }
+@media (max-width: 991px) {
+}
 
 
 
