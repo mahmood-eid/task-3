@@ -937,6 +937,7 @@ landing .bullets li {
     cursor: pointer;
 }  
 .contact .content .info {
+    flex-basis: 25%;
 }  
 
 
