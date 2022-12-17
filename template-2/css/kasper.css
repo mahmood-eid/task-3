@@ -910,8 +910,8 @@ landing .bullets li {
     .contact .content {
         flex-direction: column;
     }    
+}  .contact .content form {
 }  
-
 
 
 
