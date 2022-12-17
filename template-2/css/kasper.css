@@ -999,6 +999,7 @@ landing .bullets li {
 .footer p:not(.copyright) {
     text-transform: uppercase;
     padding: 20px;
+    border-bottom: 1px solid white;
 }
 
 
