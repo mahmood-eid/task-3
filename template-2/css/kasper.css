@@ -813,6 +813,7 @@ landing .bullets li {
 }
 .pricing .contact-link {
     display: block;
+    width: fit-content;
 }
 
 
