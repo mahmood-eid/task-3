@@ -789,6 +789,7 @@ landing .bullets li {
     position: relative;
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
+    content: "";
 }
 
 
