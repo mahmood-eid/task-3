@@ -941,6 +941,7 @@ landing .bullets li {
 }  
 @media (max-width: 767px) {
     .contact .content .info {
+        order: -1;
     }    
 }  
 
