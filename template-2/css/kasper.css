@@ -930,6 +930,7 @@ landing .bullets li {
     background-color: var(--main-color);
     color: white;
     padding: 20px;
+    border: none;
 }  
 
 
