@@ -983,6 +983,7 @@ landing .bullets li {
 }
 .footer::before {
     content: "";
+    position: absolute;
 }
 
 
