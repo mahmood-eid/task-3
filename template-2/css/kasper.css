@@ -902,6 +902,8 @@ landing .bullets li {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);  
 }  
+.contact .content {
+}  
 
 
 
