@@ -908,6 +908,7 @@ landing .bullets li {
 }  
 @media (max-width: 767px) {
     .contact .content {
+        flex-direction: column;
     }    
 }  
 
