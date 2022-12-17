@@ -899,6 +899,8 @@ landing .bullets li {
 
 /* Start Contact */
 .contact {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);  
 }  
 
 
