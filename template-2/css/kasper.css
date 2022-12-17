@@ -918,6 +918,7 @@ landing .bullets li {
     display: block;
     border: 1px solid #ccc;
     margin-bottom: 30px;
+    width: 100%;
 }  
 
 
