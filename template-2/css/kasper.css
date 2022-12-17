@@ -931,6 +931,7 @@ landing .bullets li {
     color: white;
     padding: 20px;
     border: none;
+    display: flex;
 }  
 
 
