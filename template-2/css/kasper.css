@@ -764,6 +764,7 @@ landing .bullets li {
     text-transform: uppercase;
 }
 .pricing .plans .plan .head span {
+    font-size: 60px;
 }
 
 
