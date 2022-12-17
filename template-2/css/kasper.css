@@ -928,6 +928,7 @@ landing .bullets li {
 }  
 .contact .content form input[type="submit"] {
     background-color: var(--main-color);
+    color: white;
 }  
 
 
