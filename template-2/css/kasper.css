@@ -756,6 +756,7 @@ landing .bullets li {
 .pricing .plans .plan .head {
     padding: 40px 20px;
     border-top: 1px solid var(--main-color);
+    border-bottom: 1px solid var(--main-color);
 }
 
 
