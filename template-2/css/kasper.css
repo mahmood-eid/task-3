@@ -851,6 +851,7 @@ landing .bullets li {
     }    
 }
 .subscribe form {
+    display: flex;
 }
 
 
